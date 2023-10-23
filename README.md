@@ -25,7 +25,7 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evinikuyama&show_icons=true&locale=en" alt="evinikuyama" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benji-rea&show_icons=true&locale=en" alt="benji-rea" /></p>
 
 
 
